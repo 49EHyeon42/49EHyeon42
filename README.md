@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=A0F0FF&height=300&section=header&text=49EHyeon42&fontSize=90&desc=Welcome%20to%20my%20%github!&descAlign=70&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=A0F0FF&height=100&section=header&text=49EHyeon42&fontSize=50&desc=Welcome%20to%20my%20%GitHub!&descSize=15&descAlign=60&descAlignY=75)
 
 ## Tech Stack
 **Languages**  
