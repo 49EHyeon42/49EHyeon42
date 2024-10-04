@@ -1,17 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=49EHyeon42&fontAlign=70&fontAlignY=35)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=49ehyeon42" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=49ehyeon42&layout=compact&langs_count=8&card_width=320" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=49ehyeon42&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only">
 </a>
-
-<div align="center">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=49ehyeon42&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=49ehyeon42)](https://solved.ac/49ehyeon42)
-</div>
+<a href="https://solved.ac/49ehyeon42">
+  <img height=250 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=49ehyeon42">
+</a>
 
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
