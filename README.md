@@ -16,10 +16,27 @@
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 </div>
 
+## 알고리즘
+
+문제 해결 능력을 키우기 위해 알고리즘 문제를 지속적으로 풀고 있습니다. 이를 통해 효율적인 코드 작성과 논리적 사고를 함께 발전시키고 있습니다.
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=49ehyeon42&repo=algorithm-java&theme=dark#gh-dark-mode-only">
+  </a>
+  <a href="https://solved.ac/49ehyeon42">
+    <img height=128 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=49ehyeon42">
+  </a>
+</div>
 
 ## 대외 활동
 
+
+
 <div align="center">
+
+<span style="color:red">이 텍스트는 빨간색입니다.</span>
+<span style="color:blue">이 텍스트는 파란색입니다.</span>
 
 |           기간          |                             이름                             | 상태    |
 |:-----------------------:|:------------------------------------------------------------:|---------|
@@ -32,22 +49,9 @@
 
 ## 자격증
 
-<ul style="list-style-type: none;">
-  <li><i>2023-09-01</i> 정보처리기사</li>
-  <li><i>2023-06-17</i> CSTS</li>
-  <li><i>2023-03-31</i> 리눅스 마스터 2급</li>
-  <li><i>2022-12-02</i> SQLD</li>
-</ul>
-
-## 알고리즘
-
-문제 해결 능력을 키우기 위해 알고리즘 문제를 지속적으로 풀고 있습니다. 이를 통해 효율적인 코드 작성과 논리적 사고를 함께 발전시키고 있습니다.
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=49ehyeon42&repo=algorithm-java&theme=dark#gh-dark-mode-only">
-  </a>
-  <a href="https://solved.ac/49ehyeon42">
-    <img height=128 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=49ehyeon42">
-  </a>
+<div>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;<i>2023-09-01</i>&nbsp;&nbsp;&nbsp;&nbsp;<b>정보처리기사</b></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;<i>2023-06-17</i>&nbsp;&nbsp;&nbsp;&nbsp;<b>SW 테스트 전문가(CSTS) 일반</b></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;<i>2023-03-31</i>&nbsp;&nbsp;&nbsp;&nbsp;<b>리눅스 마스터 2급</b></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;<i>2022-12-02</i>&nbsp;&nbsp;&nbsp;&nbsp;<b>SQLD</b></p>
 </div>
