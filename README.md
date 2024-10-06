@@ -1,11 +1,11 @@
 # TaeHyeon Jo
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=49ehyeon42&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only">
-</a>
-<a href="https://solved.ac/49ehyeon42">
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=49ehyeon42">
-</a>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=49ehyeon42&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only">
+  </a>
+</div>
 
 ## 기술 스택
 
@@ -25,3 +25,16 @@
 | 2023-07-17 ~ 2023-08-25 | 2023 삼성전자 DX부문 하계 대학생 S/W 알고리즘 역량 강화 특강 | 참여    |
 | 2023-01-16 ~ 2023-02-24 | 2023 삼성전자 DX부문 동계 대학생 S/W 알고리즘 역량 강화 특강 | 수료    |
 | 2022-08-06 ~ 2022-08-27 |            클라우드 스터디 잼 - 구글 클라우드 입문           | 수료    |
+
+## 자격증
+
+## 알고리즘
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=49ehyeon42&repo=algorithm-java&theme=dark#gh-dark-mode-only">
+  </a>
+  <a href="https://solved.ac/49ehyeon42">
+    <img height=128 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=49ehyeon42">
+  </a>
+</div>
