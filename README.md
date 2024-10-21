@@ -30,7 +30,7 @@
 
 <div>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;<i>2024-10-02 ~ 2024-10-28</i>&nbsp;&nbsp;&nbsp;&nbsp;진행&nbsp;&nbsp;&nbsp;&nbsp;<b>2024년 K-디지털 트레이닝 해커톤 (예선)</b></p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;<i>2024-04-03 ~ 2024-10-11</i>&nbsp;&nbsp;&nbsp;&nbsp;진행&nbsp;&nbsp;&nbsp;&nbsp;<b>카카오테크 부트캠프 클라우드 네이티브 과정 1기</b></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;<i>2024-04-03 ~ 2024-10-11</i>&nbsp;&nbsp;&nbsp;&nbsp;수료&nbsp;&nbsp;&nbsp;&nbsp;<b>카카오테크 부트캠프 클라우드 네이티브 과정 1기 (최우수 수료생, 파이널 프로젝트 최우수상)</b></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;<i>2023-07-17 ~ 2023-08-25</i>&nbsp;&nbsp;&nbsp;&nbsp;참여&nbsp;&nbsp;&nbsp;&nbsp;<b>2023 삼성전자 DX부문 하계 대학생 S/W 알고리즘 역량 강화 특강</b></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;<i>2023-01-16 ~ 2023-02-24</i>&nbsp;&nbsp;&nbsp;&nbsp;수료&nbsp;&nbsp;&nbsp;&nbsp;<b>2023 삼성전자 DX부문 동계 대학생 S/W 알고리즘 역량 강화 특강</b></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;<i>2022-08-06 ~ 2022-08-27</i>&nbsp;&nbsp;&nbsp;수료&nbsp;&nbsp;&nbsp;&nbsp;<b>클라우드 스터디 잼 - 구글 클라우드 입문</b></p>
